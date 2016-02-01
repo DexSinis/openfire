@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.wecapslabs.openfire.plugin.apns.ApnsPlugin</class>
+    <name>openfire-apns-plugin</name>
+    <description>First Openfire Custom Plugin.</description>
+    <author>xieyuan</author>
+    <version>1.0.0</version>
+    <date>14/07/2014</date>
+    <minServerVersion>3.4.1</minServerVersion>
+    
+    <adminconsole>
+    </adminconsole>
+
+</plugin>

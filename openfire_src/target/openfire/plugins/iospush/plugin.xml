@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <class>com.d3.push.PushPlugin</class>
+    <name>IOSPush</name>
+    <description>IOS Push</description>
+    <author>mzh</author>
+    <version>1.0.0</version>
+    <date>13/04/2014</date>
+    <minServerVersion>1.0.0</minServerVersion>
+</plugin>
